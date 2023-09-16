@@ -1,7 +1,11 @@
+.head {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .bucket  {
     color: rgb(60, 0, 255);
     padding: 0px 0px;
-    width: 450px;
+    width: 600px;
     height: auto;
     margin: 5px auto;
     border: 5px solid black;
@@ -15,7 +19,7 @@
     margin-left: auto;
     margin-right: auto;
     width: auto;
-    background-color: gray;
+    background-color: rgb(90, 0, 0);
     padding: 20px;
     border: 5px solid black;
     
@@ -30,6 +34,17 @@ p {
     color: white;
     
 }
+
+.city {
+    width: 688px;
+    background-color: black;
+    border: 1px solid white;
+    margin: 0px auto;
+    text-align: center;
+    color: white;
+    
+
+}
 body {
     background-color: brown;
 }
@@ -40,7 +55,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: auto;
-    background-color: gray;
+    background-color: rgb(90, 0, 0);
     padding: 20px;
     border: 5px solid black;
     
@@ -53,4 +68,15 @@ body {
     margin: 0px auto;
     text-align: center;
     color: white;
+}
+
+.dubai {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    background-color: rgb(90, 0, 0);
+    padding: 20px;
+    border: 5px solid black;
 }
