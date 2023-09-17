@@ -5,7 +5,7 @@
 .bucket  {
     color: rgb(60, 0, 255);
     padding: 0px 0px;
-    width: 600px;
+    width: 48.5vw;
     height: auto;
     margin: 5px auto;
     border: 5px solid black;
@@ -14,19 +14,26 @@
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
-.cancun {
+.number-three{
+    position: absolute;
+    font-size: 100px;
+    font-family: 'Oswald', sans-serif;
+    top: 113px;
+    left: 271px;
+}
+#mexico {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: auto;
+    width: 47vw;
     background-color: rgb(90, 0, 0);
     padding: 20px;
     border: 5px solid black;
     
 }
 
-p {
-    width: 800px;
+.cancun-text {
+    width: 50vw;
     background-color: black;
     border: 1px solid white;
     margin: 0px auto;
@@ -35,8 +42,18 @@ p {
     
 }
 
+.text {
+    width: 50vw;
+    font-family: 'Oswald', sans-serif;
+    background-color: black;
+    border: 1px solid white;
+    margin: 25px auto;
+    text-align: center;
+    color: white;
+}
+
 .city {
-    width: 688px;
+    width: 50vw;
     background-color: black;
     border: 1px solid white;
     margin: 0px auto;
@@ -54,7 +71,7 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: auto;
+    width: 47vw;
     background-color: rgb(90, 0, 0);
     padding: 20px;
     border: 5px solid black;
@@ -62,7 +79,7 @@ body {
 }
 
 .place {
-    width: 550px;
+    width: 50vw;
     background-color: black;
     border: 1px solid white;
     margin: 0px auto;
@@ -75,7 +92,7 @@ body {
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
-    width: auto;
+    width: 47vw;
     background-color: rgb(90, 0, 0);
     padding: 20px;
     border: 5px solid black;
