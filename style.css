@@ -1,9 +1,9 @@
 .head {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.bucket  {
-    color: rgb(60, 0, 255);
+.header {
+    color: rgb(76, 0, 0);
     padding: 0px 0px;
     width: 48.5vw;
     height: auto;
@@ -14,13 +14,40 @@
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
-.number-three{
+
+.number-one {
     position: absolute;
+    color: black;
+    background-color: rgb(90, 0, 0);
+    outline: 5px dashed black;
+    font-size: 100px;
+    font-family: 'Oswald', sans-serif;
+    top: 1407px;
+    left: 282px;
+}
+
+.number-two {
+    position: absolute;
+    color: black;
+    background-color: rgb(90, 0, 0);
+    outline: 5px dashed black;
+    font-size: 100px;
+    font-family: 'Oswald', sans-serif;
+    top: 746px;
+    left: 271px;
+}
+
+.number-three {
+    position: absolute;
+    color: black;
+    background-color: rgb(90, 0, 0);
+    outline: 5px dashed black;
     font-size: 100px;
     font-family: 'Oswald', sans-serif;
     top: 113px;
     left: 271px;
 }
+
 #mexico {
     display: block;
     margin-left: auto;
@@ -29,7 +56,7 @@
     background-color: rgb(90, 0, 0);
     padding: 20px;
     border: 5px solid black;
-    
+
 }
 
 .cancun-text {
@@ -39,7 +66,7 @@
     margin: 0px auto;
     text-align: center;
     color: white;
-    
+
 }
 
 .text {
@@ -59,14 +86,15 @@
     margin: 0px auto;
     text-align: center;
     color: white;
-    
+
 
 }
+
 body {
     background-color: brown;
 }
 
-.done {
+.London-City {
     margin-top: 50px;
     display: block;
     margin-left: auto;
@@ -75,7 +103,7 @@ body {
     background-color: rgb(90, 0, 0);
     padding: 20px;
     border: 5px solid black;
-    
+
 }
 
 .place {
